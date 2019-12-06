@@ -72,6 +72,6 @@ const styles = StyleSheet.create({
     color:"#fff",
   }  
 });
-
+// je viens dde changer quelque chose 
 //make this component available to the app
 export default App;
