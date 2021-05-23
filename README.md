@@ -1,4 +1,4 @@
 # My-App
-react application
+react native application
 
 
